@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/PyramidGamer/guidebot-class)](https://repl.it/github/PyramidGamer/guidebot-class)
 # Guide Bot
 
 An boilerplate of a Discord.js Bot Handler.
